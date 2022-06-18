@@ -24,6 +24,8 @@
 <a href="https://www.docker.com" title="docker"><img height="30" src="icon/docker.png" /></a>
 <a href="https://git-scm.com" title="git"><img height="30" src="icon/git.png" /></a>
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreSuperCC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSuperCC&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <!--
 **AlexandreSuperCC/ASCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
