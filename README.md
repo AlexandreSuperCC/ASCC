@@ -2,7 +2,7 @@
 ### Hello World :computer:
 
 - 🔭 I’m currently studying at <a href="https://www.utbm.fr">UTBM</a> in France after an bachelor degree at <a href="http://shu.admissions.cn/">Shanghai University </a>  
-- :rocket: Currently learning about Full stack Development.
+- :rocket: Currently learning about Full Stack Development.
 - :mortar_board: Bachelor in Software Dev from <a href="http://shu.admissions.cn">SHU</a>. 
 
 
