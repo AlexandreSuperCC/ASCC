@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### Hello World :computer:
 
+![https://img.shields.io/badge/Dev-Fullstack-blue.svg](https://img.shields.io/badge/Dev-Fullstack-blue)
+![](https://img.shields.io/badge/Software-Engineer-lightblue?logoColor=lightblue)
+![](https://img.shields.io/badge/UTBM-Student-lightgreen?logoColor=lightgreen)
+
 - 🔭 I’m currently studying at <a href="https://www.utbm.fr">UTBM</a> in France after an bachelor degree at <a href="http://shu.admissions.cn/">Shanghai University </a>  
 - :rocket: Currently learning about Full Stack Development.
 - :mortar_board: Bachelor in Software Dev from <a href="http://shu.admissions.cn">SHU</a>. 
