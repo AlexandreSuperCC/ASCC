@@ -8,11 +8,18 @@
 
 🛠️**Skills :floppy_disk:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_cuda.svg"></code>
+<a href="https://www.java.com" title="java"><img src="icons/java.png" /></a>
+<a href="https://cplusplus.com" title="cpp"><img src="icons/cpp.png" /></a>
+<a href="https://www.javascript.com" title="javascript"><img src="icons/javascript.png" /></a>
+<a href="https://vuejs.org" title="vue"><img src="icons/vue.png" /></a>
+<a href="https://nodejs.org" title="nodejs"><img src="icons/nodejs.png" /></a>
+<a href="https://www.html.com" title="html"><img src="icons/html.png" /></a>
+<a href="https://www.mysql.com" title="mysql"><img src="icons/mysql.png" /></a>
+<a href="https://www.oracle.com" title="oracle"><img src="icons/oracle.png" /></a>
+<a href="https://redis.io" title="redis"><img src="icons/redis.png" /></a>
+<a href="https://www.docker.com" title="docker"><img src="icons/docker.png" /></a>
+<a href="https://git-scm.com" title="git"><img src="icons/git.png" /></a>
+
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AlexandreSuperCC&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSuperCC&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
