@@ -6,7 +6,7 @@
 - :mortar_board: Bachelor in Software Dev from <a href="http://shu.admissions.cn">SHU</a>. 
 
 
-🛠️**Skills :floppy_disk:**
+### 🛠️Skills :floppy_disk:
 
 <a href="https://www.java.com" title="java"><img height="30" src="icon/java.png" /></a>
 <a href="https://cplusplus.com" title="cpp"><img height="30" src="icon/cpp.png" /></a>
